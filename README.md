@@ -4,7 +4,7 @@
 
 ### A fully dynamic & feature-rich Library Management System built with React.js ⚛️
 
-This project simulates real-world library operations — Books, Members, Issuing/Returning, Fines, and Reports — all handled from the frontend with no backend required.
+This project simulates real-world library operations — Books, Members, Issuing/Returning, Fines, and Reports — all handled from the frontend.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
